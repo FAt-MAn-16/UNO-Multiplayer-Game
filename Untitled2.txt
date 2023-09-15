@@ -1,0 +1,22 @@
+indexing rowwise
+red=0,4
+yellow=1,5
+green=2,6
+blue=3,7
+
+for wild cards
+0 to 3 =  cc
+4 to 7 = +4
+
+
+
+indexing columnwise
+{0-9}=[0-9]
+skip=[10]
+rev=[11]
++2=[12]
+black card= [13]
+
+
+Syntax of Card
+B9, WC , YT, WF
